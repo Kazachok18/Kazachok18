@@ -1,4 +1,4 @@
-<h1 align="center">Привіт, я Kazachok18👋</h1>
+<h1 align="center">Привіт, я Гліб👋</h1>
 
 <p align="center">
   🌱 Починаючий розробник • 💻 Люблю вивчати C++, Python, HTML 
